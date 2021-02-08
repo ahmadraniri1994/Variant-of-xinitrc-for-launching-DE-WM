@@ -1,0 +1,3 @@
+#/home/ahmad/.fehbg &
+xrdb -merge /home/ahmad/.Xresources
+exec cinnamon-session

@@ -1,0 +1,4 @@
+/home/ahmad/.fehbg &
+xrdb -merge /home/ahmad/.Xresources
+exec startlxde 
+#startfluxbox

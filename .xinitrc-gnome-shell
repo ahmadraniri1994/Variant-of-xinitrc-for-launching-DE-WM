@@ -1,0 +1,2 @@
+xrdb -merge /home/ahmad/.Xresources
+exec gnome-shell --x11

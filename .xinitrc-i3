@@ -1,0 +1,2 @@
+xrdb -merge /home/ahmad/.Xresources
+exec i3

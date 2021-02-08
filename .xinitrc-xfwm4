@@ -1,0 +1,9 @@
+#/home/ahmad/.fehbg &
+xrdb -merge /home/ahmad/.Xresources
+#xfsettingsd &
+#xfce4-panel &
+xterm &
+sxhkd &
+tint2 &
+exec xfwm4 
+#startfluxbox
